@@ -1,0 +1,1 @@
+ln -s /solution/$CONFIG/data /usr/share/nginx/html
